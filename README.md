@@ -18,3 +18,11 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 - `entry.png` — 1024x683 PNG, 983,529 bytes (gate limit: 1 MiB, 1024x1024).
 - One clear focal point, filling the frame: appetite first, then texture,
   styling and light — the judge's rubric.
+
+## Why this shot
+
+The house ladder's strongest rung is a pizza cheese-pull, so this entry takes
+a different hero dish with the same visual language: molten cheese in motion,
+glossy highlights on the bun, steam, warm light against a dark ground. At 300
+pixels the burger still reads as one appetizing shape — cheese, patties, bun —
+with no small detail the judge has to hunt for.
